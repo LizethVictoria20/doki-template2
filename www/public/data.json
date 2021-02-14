@@ -1,0 +1,67 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Template 1",
+      "description": "Description template 1",
+      "imagen": "Imagen 1",
+      "author": "Author 1"
+    },
+    {
+      "id": 2,
+      "name": "Template 2",
+      "description": "Description template 2",
+      "imagen": "Imagen 2",
+      "author": "Author 2"
+    },
+    {
+      "id": 3,
+      "name": "Template 3",
+      "description": "Description template 3",
+      "imagen": "Imagen 3",
+      "author": "Author 3"
+    },
+    {
+      "id": 4,
+      "name": "Template 4",
+      "description": "Description template 4",
+      "imagen": "Imagen 4",
+      "author": "Author 4"
+    },
+    {
+      "id": 5,
+      "name": "Template 5",
+      "description": "Description template 5",
+      "imagen": "Imagen 5",
+      "author": "Author 5"
+    },
+    {
+      "id": 6,
+      "name": "Template 6",
+      "description": "Description template6",
+      "imagen": "Imagen6",
+      "author": "Author6"
+    },
+    {
+      "id": 7,
+      "name": "Template 7",
+      "description": "Description template 7",
+      "imagen": "Imagen 7",
+      "author": "Author 7"
+    },
+    {
+      "id": 8,
+      "name": "Template 8",
+      "description": "Description template 8",
+      "imagen": "Imagen 8",
+      "author": "Author 8"
+    },
+    {
+      "id": 9,
+      "name": "Template 9",
+      "description": "Description template 9",
+      "imagen": "Imagen 9",
+      "author": "Author 9"
+    }
+  ]
+}
