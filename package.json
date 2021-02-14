@@ -1,0 +1,17 @@
+{
+  "name": "doki-template",
+  "version": "0.1.0",
+  "description": "Doki templates",
+  "main": "index.js",
+  "repository": "https://github.com/LizethVictoria20/doki-template2.git",
+  "author": "Lizeth Victoria Franco",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "www",
+    "templates/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
