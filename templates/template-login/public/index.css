@@ -2,22 +2,21 @@
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
 
-
-#app {
-  background-image: url("/background.jpeg");
+body {
+  background-image: linear-gradient(to right top, #a05af5, #a769f3, #ae78f1, #b586ee, #bb94eb);
 }
 
-nav li{
-  display: inline;
-  text-align:center;
-  color:black;
-  margin-right: 80px;  
-  margin-left: 80px;
-
+.containerLogin {
+  border-radius: 30px;
 }
 
-li a:hover {
-  color: #A3A3A3;
+input {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border: solid 1px #9357ebc2;
+  border-radius: 1rem;
 }
 
-
+.bgCard {
+  background-image: linear-gradient(to right top, #8654e1, #8d56e7, #9457ec, #9c59f2, #a35af7);
+}
