@@ -1,0 +1,23 @@
+@import 'tailwindcss/dist/base.css';
+@import 'tailwindcss/dist/components.css';
+@import 'tailwindcss/dist/utilities.css';
+
+
+#app {
+  background-image: url("/background.jpeg");
+}
+
+nav li{
+  display: inline;
+  text-align:center;
+  color:black;
+  margin-right: 80px;  
+  margin-left: 80px;
+
+}
+
+li a:hover {
+  color: #A3A3A3;
+}
+
+
